@@ -1,0 +1,10 @@
+name: Hammersmith
+type: profile
+description: Install Drupal to manage and generate static sites.
+core: 8.x
+
+distribution:
+  name: Hammersmith. For Drupal powered static sites.
+
+dependencies:
+  - smith
